@@ -11,7 +11,7 @@ async function runSample(auth, incomingThreadID, fromAddress, subject, messageId
 
     // supply the message parts
     const messageParts = [
-        'From: Justin Beckwith <beckwith@google.com>',
+        'From: Jack Sparrow <jacksparrow@pirates.com>',
         `To: ${fromAddress}`,
         'Content-Type: text/html; charset=utf-8',
         'MIME-Version: 1.0',
