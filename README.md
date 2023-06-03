@@ -63,6 +63,13 @@ The project code is structured as follows:
 
 Contributions are welcome! If you find any issues or want to enhance the project, please open an issue or submit a pull request.
 
+## Planned Improvements
+
+- Ommit no-reply mails.
+- Add more concrete logic of schduling.
+- Reporting dashboard.
+
+
 ## License
 
 This project is licensed under the MIT License.
